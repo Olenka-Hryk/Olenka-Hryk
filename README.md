@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Olena 👩🏼‍💻</h1>
-<h3 align="center">I'm an enthusiastic React developer with over 1.5 years of non-commercial experience, passionate about creating web applications that enhance user experiences.</h3>
+<h3 align="center">React Developer | Passionate About Building Engaging Web Applications</h3>
 
 ## 👩🏼‍💻 About Me
 
 - 🇺🇦 React FrontEnd developer from Ukraine
-- 🔭 I’m currently working on React Apps
-- 🌱 I’m currently learning **React, Redux, TypeScript**
 - 🗂️ All my projects are available in [repositories](https://github.com/Olenka-Hryk?tab=repositories)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olenka-hryk&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
@@ -14,6 +12,7 @@
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
 | SoftServe Academy | 2023-2024 | UI developer | React, Redux, JavaScript, TypeScript, SQL, NoSQL |
+| SoftServe | 09/16/2024 | UI developer | React, Redux, JavaScript, TypeScript |
 
 
 
